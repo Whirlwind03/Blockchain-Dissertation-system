@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sports_Blockchain_2", "Sports_Blockchain_2.pyproj", "{DA219478-2D53-4905-AB5F-2BB8695F1824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA219478-2D53-4905-AB5F-2BB8695F1824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA219478-2D53-4905-AB5F-2BB8695F1824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B22794A-3B93-47D0-A9F3-9E07B06C3D25}
+	EndGlobalSection
+EndGlobal
